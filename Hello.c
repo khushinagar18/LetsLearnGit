@@ -2,6 +2,6 @@
 
 int main(){
     int a = 5;
-    printf("%d",a);
+    printf("Value of a is : %d",a);
     return 0;
 }
